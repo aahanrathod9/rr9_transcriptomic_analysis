@@ -80,7 +80,7 @@ This section of the notebook performs a multi-model analysis to find gene sets c
     ['Acss3', 'Ptpn2', 'Fgf1', 'Tcf7l2', ...]
     ```
 
-### 📊 Gene Ontology Analysis with MSigDB
+### Gene Ontology Analysis with MSigDB
 
 To reproduce the Gene Ontology (GO) analysis of Tables 5 and 7:
 
