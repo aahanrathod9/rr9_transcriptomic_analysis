@@ -64,12 +64,13 @@ Anp32a Arl6ip1 Atf4 B2m Chgb ...
 ```
 
 ### 3. Open MSigDB (Mouse Collections)
-    1. Go to https://www.gsea-msigdb.org/gsea/msigdb
-    2. In left sidebar, under Mouse Collections (in green) click "Investigate"
-<img width="988" height="1138" alt="Screenshot 2025-12-15 at 4 51 19 PM" src="https://github.com/user-attachments/assets/503f95e8-a46c-4abe-9d9d-b1a39bc47ea2" />
+1. Go to https://www.gsea-msigdb.org/gsea/msigdb
+2. In left sidebar, under Human Collections (in blue) click "Investigate"
+<img width="1008" height="450" alt="Screenshot 2025-12-16 at 6 34 57 AM" src="https://github.com/user-attachments/assets/294b930d-bd92-4d8b-842d-23baac5bf0dc" />
 
 ### 4. Run GO Overlap Analysis
-	1. Paste clean space-seperated gene list into input box
-	2. Under Compute Overlaps select *GO: Gene Ontology* and it should check all of the mouse collections under the GO category.
-	3. Click compute overlaps at the bottom and compare results.
-<img width="826" height="701" alt="Screenshot 2025-12-15 at 6 49 20 PM" src="https://github.com/user-attachments/assets/2fb2543f-59cc-4402-b2c3-43fe6e9c7a81" />
+1. Paste clean space-seperated gene list into input box
+2. At the bottom, "Species of input identifiers:" should be set to "Mouse (to be orthology-mapped)
+3. Under Compute Overlaps select *C5: Ontology Gene Sets* and it should check all of the gene collections under the C5 category.
+4. Click compute overlaps at the bottom and compare results.
+<img width="809" height="920" alt="Screenshot 2025-12-16 at 6 37 42 AM" src="https://github.com/user-attachments/assets/5a3ce5aa-863f-4601-b110-a9c0c8d34c6e" />
