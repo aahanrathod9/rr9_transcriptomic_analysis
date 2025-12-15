@@ -70,7 +70,7 @@ Anp32a Arl6ip1 Atf4 B2m Chgb ...
 
 ### 4. Run GO Overlap Analysis
 1. Paste clean space-seperated gene list into input box
-2. At the bottom, "Species of input identifiers:" should be set to "Mouse (to be orthology-mapped)
-3. Under Compute Overlaps select *C5: Ontology Gene Sets* and it should check all of the gene collections under the C5 category.
+2. At the bottom, "*Species of input identifiers:*" should be set to "*Mouse (to be orthology-mapped)*"
+3. Under Compute Overlaps select "*C5: Ontology Gene Sets*" and it should check all of the gene collections under the C5 category.
 4. Click compute overlaps at the bottom and compare results.
 <img width="809" height="920" alt="Screenshot 2025-12-16 at 6 37 42 AM" src="https://github.com/user-attachments/assets/5a3ce5aa-863f-4601-b110-a9c0c8d34c6e" />
