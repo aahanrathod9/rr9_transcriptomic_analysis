@@ -12,7 +12,7 @@ The notebook includes code blocks of data loading, filtering, differential gene 
 2. Run all cells in notebook (Google Drive will prompt a login in order to mount)
     * Colab will install dependencies, mount Google Drive, download the GTF file automatically, and execute all analysis steps.
 
-Running the full notebook should take a few minutes, depending on network speed for data/file downloads and the amount of tests ran.
+Running the full notebook should take a few hours to complete.
 
 ---
 
